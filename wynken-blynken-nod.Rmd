@@ -1,6 +1,6 @@
 # Wynken, Blynken, and Nod
 
-*by Eugene Field, 1889*
+*by Eugene Field, 1889* ^[[*Wynken, Blynken, and Nod*](https://en.wikipedia.org/wiki/Wynken,_Blynken,_and_Nod){target="_blank"} is a popular poem for children written by American writer and poet Eugene Field and published on March 9, 1889. The poem is a fantasy bed-time story about three children sailing and fishing amongst the stars from a boat which is a wooden shoe. The little fishermen symbolize a sleepy child's blinking eyes and nodding head.]
 
 Wynken, Blynken, and Nod one night  
 Sailed off in a wooden shoe —  
@@ -46,6 +46,3 @@ And you shall see the beautiful things
 As you rock in the misty sea,  
 Where the old shoe rocked the fishermen three:  
 Wynken, Blynken, and Nod.
-
-----
-*Wynken, Blynken, and Nod* is a popular poem for children written by American writer and poet Eugene Field and published on March 9, 1889. The poem is a fantasy bed-time story about three children sailing and fishing amongst the stars from a boat which is a wooden shoe. The little fishermen symbolize a sleepy child's blinking eyes and nodding head. https://en.wikipedia.org/wiki/Wynken,_Blynken,_and_Nod
