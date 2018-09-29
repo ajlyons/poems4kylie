@@ -5,8 +5,8 @@ bookdown::gitbook:
     toc:
       collapse: none
       before: |
-        <li><a href="#">Poems for Kylie</a></li>
-    download: ["pdf", "epub"]
+        <li><a href="https://ajlyons.github.io/poems4kylie/">Poems for Kylie</a></li>
+    download: ["epub"]
 bookdown::epub_book:
   dev: svglite
   number_sections: True
