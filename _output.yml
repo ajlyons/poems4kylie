@@ -1,0 +1,12 @@
+bookdown::gitbook: 
+  lib_dir: libs
+  number_sections: False
+  config:
+    toc:
+      collapse: none
+      before: |
+        <li><a href="#">Poems for Kylie</a></li>
+    download: ["pdf", "epub"]
+bookdown::epub_book:
+  dev: svglite
+  number_sections: True

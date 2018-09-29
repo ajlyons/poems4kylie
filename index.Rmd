@@ -1,0 +1,14 @@
+---
+title: "Poems for Kylie"
+site: bookdown::bookdown_site
+author: "Andy Lyons"
+documentclass: book
+cover-image: "images/kylie_600x600.jpg"
+---
+
+# Preface {-}
+
+Kylie is my niece. As I write this, she is only 10 months old. She loves being read to, although currently she is primarily interested in turning the pages and trying to eat the cover. I am  compiling some of my favorite poems to read to her as she gets older.
+
+![](images/kylie_600x600.jpg)  
+*Kylie with Auntie Zilo*

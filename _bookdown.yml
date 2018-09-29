@@ -1,0 +1,4 @@
+output_dir: docs
+book_filename: "poems-for-kylie"
+rmd_files: ["index.Rmd", "wynken-blynken-nod.Rmd", "cremation_sam-mcgee.Rmd"]
+
