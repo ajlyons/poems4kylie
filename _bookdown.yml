@@ -4,6 +4,8 @@ rmd_files: ["index.Rmd",
             "hush-little-baby.Rmd",
             "pat-a-cake.Rmd",
             "chim-chim-cheree.Rmd",
+            "eagles-wings.Rmd", 
+            "here-comes-the-sun.Rmd",
             "wynken-blynken-nod.Rmd", 
             "be-glad-your-nose-is-on-your-face.Rmd", 
             "cremation_sam-mcgee.Rmd"]
